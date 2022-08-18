@@ -68,6 +68,11 @@
 				"AbilityDef_FirstAid",
 				"TraitDefIAmMech"
 			],
+			"TBD_ronin": [
+				"AbilityDef_CarefulManeuvers",
+				"AbilityDef_FirstAid",
+				"TraitDefIAmMech"
+			],
 			"VXI": [
 				"AbilityDef_CarefulManeuvers",
 				"AbilityDef_FirstAid",
