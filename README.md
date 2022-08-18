@@ -1,5 +1,11 @@
-Same install instructions as for BEX-Tanks.
+Install BEX-Tanks.
+Delete Abilifier and AbilityRealizer folders.
+Copy and overwrite.
+
+
+
 All credit goes to LordRuthermore for the bulk of the work. 
+
 I only got a few of the final things working and fixed a small bug or two.
 
 Best if used on a new save. 
